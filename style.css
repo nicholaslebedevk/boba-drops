@@ -1,5 +1,7 @@
 img {
     width: 500px;
+    border-radius: 12px;
+    border: 4px solid #000000
 
 }
 
@@ -8,4 +10,9 @@ body {
     font-family:'Trebuchet MS';
     background: snow;
     color: black;
+    margin: 0;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVJwy065ZMF_v5Wlg4hzZ1rdGbUcmfB0AICZ-DK57dGA&s");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
 }
